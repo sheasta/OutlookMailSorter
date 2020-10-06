@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlook File Email", "Outlook File Email\Outlook File Email.csproj", "{61D80B7E-57DA-49B8-B9D8-3792EA7A5D02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D80B7E-57DA-49B8-B9D8-3792EA7A5D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D80B7E-57DA-49B8-B9D8-3792EA7A5D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D80B7E-57DA-49B8-B9D8-3792EA7A5D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D80B7E-57DA-49B8-B9D8-3792EA7A5D02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97061C5D-7631-49F1-A189-66042F3CD20A}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/sheastadevelopment
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Outlook\u0020File\u0020Email\\Outlook\u0020File\u0020Email.csproj
+		SccProjectName1 = Outlook\u0020File\u0020Email
+		SccLocalPath1 = Outlook\u0020File\u0020Email
+	EndGlobalSection
+EndGlobal
